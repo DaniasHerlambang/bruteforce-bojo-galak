@@ -1,13 +1,9 @@
-#!usr/bin/python
-#cPanel BruteForcer
-#http://www.darkc0de.com
-#d3hydr8[at]gmail[dot]com
 
 import threading, time, random, sys, urllib2, httplib, base64
 from copy import copy
 
 def title():
-    print "\n\t   d3hydr8[at]gmail[dot]com cPanel BruteForcer v1.0"
+    print "\n\t   Kill cPanel BruteForcer v1.0"
     print "\t-----------------------------------------------------\n"
    
 def timer():
