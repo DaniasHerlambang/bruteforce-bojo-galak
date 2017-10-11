@@ -1,10 +1,3 @@
-#!/usr/bin/python
-#Local Root BruteForcer
-
-#More Info: http://forum.darkc0de.com/index.php?action=vthread&forum=8&topic=1571
-
-#http://www.darkc0de.com
-#d3hydr8[at]gmail[dot]com
 
 import sys
 try:
